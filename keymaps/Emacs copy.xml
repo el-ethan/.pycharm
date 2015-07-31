@@ -1,0 +1,54 @@
+<keymap version="1" name="Emacs copy" parent="Emacs">
+  <action id="ContextHelp" />
+  <action id="EditorCloneCaretAbove">
+    <keyboard-shortcut first-keystroke="shift control P" />
+  </action>
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="shift control N" />
+  </action>
+  <action id="EditorIndentLineOrSelection">
+    <keyboard-shortcut first-keystroke="TAB" />
+  </action>
+  <action id="EditorSelectLine">
+    <keyboard-shortcut first-keystroke="control L" />
+  </action>
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="control alt W" />
+    <keyboard-shortcut first-keystroke="alt SPACE" />
+  </action>
+  <action id="GotoTypeDeclaration">
+    <mouse-shortcut keystroke="shift control button1" />
+  </action>
+  <action id="HideActiveWindow">
+    <keyboard-shortcut first-keystroke="shift ESCAPE" />
+    <keyboard-shortcut first-keystroke="control G" />
+  </action>
+  <action id="Runner.CloseView">
+    <keyboard-shortcut first-keystroke="control G" />
+  </action>
+  <action id="ShowBookmarks">
+    <keyboard-shortcut first-keystroke="F1" />
+  </action>
+  <action id="ShowSettings">
+    <keyboard-shortcut first-keystroke="control H" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="shift alt ENTER" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="shift alt DOWN" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="shift alt LEFT" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="shift alt RIGHT" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="shift alt UP" />
+  </action>
+  <action id="ToggleBookmark">
+    <keyboard-shortcut first-keystroke="shift control B" />
+  </action>
+  <action id="TypeHierarchy" />
+</keymap>
