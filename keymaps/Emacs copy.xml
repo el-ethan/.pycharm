@@ -23,6 +23,10 @@
     <keyboard-shortcut first-keystroke="shift ESCAPE" />
     <keyboard-shortcut first-keystroke="control G" />
   </action>
+  <action id="RecentChangedFiles">
+    <keyboard-shortcut first-keystroke="shift control E" />
+    <keyboard-shortcut first-keystroke="control X" second-keystroke="F" />
+  </action>
   <action id="Runner.CloseView">
     <keyboard-shortcut first-keystroke="control G" />
   </action>
