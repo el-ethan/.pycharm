@@ -493,7 +493,7 @@
         <entry key="BigJob" value="0.64.5" />
         <entry key="BigJob2" value="0.54-42-g09ea8bc" />
         <entry key="BigQuery-GCS" value="0.0.4" />
-        <entry key="BigQuery-Python" value="1.4.0" />
+        <entry key="BigQuery-Python" value="1.3.0" />
         <entry key="BigSitemap" value="0.1.0" />
         <entry key="Biggus" value="0.11.0" />
         <entry key="Billabong" value="0.2.3" />
@@ -6531,7 +6531,7 @@
         <entry key="SigmaCommon" value="0.1.6" />
         <entry key="Sijax" value="0.3.2" />
         <entry key="Sill-E-Scope" value="0.1.0" />
-        <entry key="SillyCrossbow" value="1.1" />
+        <entry key="SillyCrossbow" value="1.0.8" />
         <entry key="SilverCity" value="0.9.5" />
         <entry key="SimPEG" value="0.1.3" />
         <entry key="SimPyLC" value="1.2.4" />
@@ -7662,7 +7662,7 @@
         <entry key="WorldMill" value="0.1" />
         <entry key="Wraptor" value="0.6.0" />
         <entry key="Writeup" value="0.1.0" />
-        <entry key="WsCore" value="0.10.19" />
+        <entry key="WsCore" value="0.10.17" />
         <entry key="WsgiDAV" value="1.2.0" />
         <entry key="WsgiFw" value="0.0.1" />
         <entry key="WsgiService" value="0.4.0" />
@@ -12765,7 +12765,7 @@
         <entry key="chirp" value="1.2.2" />
         <entry key="chirp-python" value="1.0.0" />
         <entry key="chirpy" value="1.0.6" />
-        <entry key="chisel" value="0.8.27" />
+        <entry key="chisel" value="0.8.26" />
         <entry key="chishop" value="0.2.0" />
         <entry key="chisubmit" value="0.9.4" />
         <entry key="chitwanabm" value="1.5" />
@@ -18025,7 +18025,7 @@
         <entry key="django-campaign" value="0.2.0" />
         <entry key="django-canary-endpoint" value="0.3.0" />
         <entry key="django-canclon" value="0.2.3" />
-        <entry key="django-candv-choices" value="1.1.5" />
+        <entry key="django-candv-choices" value="1.1.4" />
         <entry key="django-canjs" value="0.1.2" />
         <entry key="django-canvas-api-token" value="0.2.0" />
         <entry key="django-captcha-admin" value="0.1" />
@@ -20875,7 +20875,7 @@
         <entry key="django-pip-starter" value="1.0.3" />
         <entry key="django-pipedash" value="1.0.0" />
         <entry key="django-pipejam" value="0.0.3" />
-        <entry key="django-pipeline" value="1.5.3" />
+        <entry key="django-pipeline" value="1.5.2" />
         <entry key="django-pipeline-browserify" value="0.1.0" />
         <entry key="django-pipeline-compass" value="0.1.5" />
         <entry key="django-pipeline-compass-compiler" value="0.1.2" />
@@ -23089,7 +23089,7 @@
         <entry key="django_minify" value="0.1" />
         <entry key="django_mobile_utils" value="0.9" />
         <entry key="django_molder" value="0.1.0a" />
-        <entry key="django_msp_sms" value="1.0.6" />
+        <entry key="django_msp_sms" value="1.0.5" />
         <entry key="django_multifield_clean" value="0.0.1" />
         <entry key="django_multiuploader_file" value="2.0.2" />
         <entry key="django_nav" value="0.6-beta-2" />
@@ -27339,7 +27339,6 @@
         <entry key="gTTS" value="1.0.6" />
         <entry key="ga" value="0.1.1.dev" />
         <entry key="ga4gh" value="0.1.2" />
-        <entry key="gaana" value="0.0.3" />
         <entry key="gabbi" value="1.1.6" />
         <entry key="gabi" value="0.2.0" />
         <entry key="gacli" value="1.0.2" />
@@ -33968,7 +33967,7 @@
         <entry key="lie_to_me" value="0.0.1b" />
         <entry key="liebiao" value="1.2.0" />
         <entry key="liewnester" value="1.0.0" />
-        <entry key="lifelines" value="0.8.0.0" />
+        <entry key="lifelines" value="0.7.1.0" />
         <entry key="lifelogger" value="0.1.3" />
         <entry key="lift" value="2.0.0" />
         <entry key="lifx" value="0.11" />
@@ -34208,7 +34207,7 @@
         <entry key="lit" value="0.4.1" />
         <entry key="litchi" value="0.0.1" />
         <entry key="litekv" value="0.6" />
-        <entry key="litelog" value="0.1.4" />
+        <entry key="litelog" value="0.1.2" />
         <entry key="liten" value="0.1.5.0" />
         <entry key="literal" value="1.0.0" />
         <entry key="litesimple" value="0.1.0" />
@@ -38536,7 +38535,6 @@
         <entry key="nontemplate" value="0.12" />
         <entry key="nonude" value="1.1" />
         <entry key="nonzero" value="0.1.3" />
-        <entry key="noober_nest_list" value="1.2.1" />
         <entry key="noobhack" value="0.4" />
         <entry key="noody-utils" value="1.0.1" />
         <entry key="noolite" value="1.1.3" />
@@ -51036,7 +51034,7 @@
         <entry key="rq-dashboard" value="0.3.4" />
         <entry key="rq-gevent-worker" value="0.1.6" />
         <entry key="rq-monitor" value="0.1.0" />
-        <entry key="rq-retry" value="0.0.2" />
+        <entry key="rq-retry" value="0.0.1" />
         <entry key="rq-scheduler" value="0.5.1" />
         <entry key="rql" value="0.33.1" />
         <entry key="rqlquery" value="0.3.0" />
@@ -56598,7 +56596,7 @@
         <entry key="ticketml" value="0.1" />
         <entry key="ticketscloud" value="0.6.4" />
         <entry key="ticketus" value="0.6.0" />
-        <entry key="tickeys" value="0.1.1a5" />
+        <entry key="tickeys" value="0.1.0a4" />
         <entry key="ticktock" value="0.1.2" />
         <entry key="tictactoe" value="0.1.8" />
         <entry key="tictactoe-py" value="1.0.0" />
@@ -62019,7 +62017,6 @@
         <entry key="zerorpc" value="0.5.1" />
         <entry key="zerorpc-statsd" value="0.1.0" />
         <entry key="zerovm-sphinx-theme" value="1.1" />
-        <entry key="zerqu" value="0.1" />
         <entry key="zes3t" value="0.1" />
         <entry key="zest.cachetuning" value="0.4" />
         <entry key="zest.commentcleanup" value="1.6" />
@@ -62555,6 +62552,6 @@
         <entry key="zzzfs" value="0.1" />
       </map>
     </option>
-    <option name="LAST_TIME_CHECKED" value="1438453986155" />
+    <option name="LAST_TIME_CHECKED" value="1438450560850" />
   </component>
 </application>

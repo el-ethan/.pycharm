@@ -51,4 +51,7 @@
     <keyboard-shortcut first-keystroke="shift control B" />
   </action>
   <action id="TypeHierarchy" />
+  <action id="com.jetbrains.python.console.RunPythonConsoleAction">
+    <keyboard-shortcut first-keystroke="control X" second-keystroke="control P" />
+  </action>
 </keymap>
