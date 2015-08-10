@@ -1,4 +1,9 @@
 <keymap version="1" name="Emacs copy" parent="Emacs">
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="control X" second-keystroke="K" />
+    <keyboard-shortcut first-keystroke="control X" second-keystroke="0" />
+    <keyboard-shortcut first-keystroke="control G" />
+  </action>
   <action id="ContextHelp" />
   <action id="EditorCloneCaretAbove">
     <keyboard-shortcut first-keystroke="shift control P" />
