@@ -1,5 +1,6 @@
 <application>
   <component name="FindSettings">
+    <option name="FILE_MASK" value="*.py, *.kv, *.pyx" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -16,8 +17,8 @@
       <mask>*.tpl</mask>
       <mask>*.py</mask>
       <mask>*.py, *.kv</mask>
-      <mask>*.py, *.kv, *.pyx</mask>
       <mask>*.kv</mask>
+      <mask>*.py, *.kv, *.pyx</mask>
     </recentFileMasks>
   </component>
 </application>
