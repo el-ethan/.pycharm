@@ -4,6 +4,8 @@
     <extensionMap>
       <mapping pattern="localtextfile" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
+      <mapping ext="pxi" type="Python" />
+      <mapping ext="pxd" type="Python" />
       <mapping ext="pyx" type="Python" />
     </extensionMap>
   </component>
