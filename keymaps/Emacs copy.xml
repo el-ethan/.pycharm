@@ -1,4 +1,8 @@
 <keymap version="1" name="Emacs copy" parent="Emacs">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt F12" />
+    <keyboard-shortcut first-keystroke="control X" second-keystroke="control T" />
+  </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="control X" second-keystroke="K" />
     <keyboard-shortcut first-keystroke="control X" second-keystroke="0" />
