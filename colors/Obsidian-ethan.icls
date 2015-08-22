@@ -129,32 +129,32 @@
     </option>
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="93c763" />
+        <option name="FOREGROUND" value="f4fbb7" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD2_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="93c763" />
+        <option name="FOREGROUND" value="ffe267" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD3_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="93c763" />
+        <option name="FOREGROUND" value="ffa684" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD4_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="93c763" />
+        <option name="FOREGROUND" value="6883c7" />
       </value>
     </option>
     <option name="CUSTOM_LINE_COMMENT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="7d8c93" />
+        <option name="FOREGROUND" value="678cb1" />
       </value>
     </option>
     <option name="CUSTOM_MULTI_LINE_COMMENT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="7d8c93" />
+        <option name="FOREGROUND" value="67ba80" />
       </value>
     </option>
     <option name="CUSTOM_NUMBER_ATTRIBUTES">
@@ -169,7 +169,7 @@
     </option>
     <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ffcd22" />
+        <option name="FOREGROUND" value="67ba80" />
       </value>
     </option>
     <option name="DEFAULT_ATTRIBUTE">
