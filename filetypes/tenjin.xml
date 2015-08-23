@@ -13,7 +13,7 @@
     </options>
     <keywords keywords="break;continue;elif;else;for;if;in;is;not;pass;while" ignore_case="false" />
     <keywords2 keywords="+;-;=" />
-    <keywords3 keywords="&lt;?py ;?&gt;" />
+    <keywords3 keywords="&lt;?py;?&gt;" />
     <keywords4 keywords="#endfor;#endif" />
   </highlighting>
   <extensionMap>
