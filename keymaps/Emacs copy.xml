@@ -35,15 +35,29 @@
     <keyboard-shortcut first-keystroke="shift control E" />
     <keyboard-shortcut first-keystroke="control X" second-keystroke="F" />
   </action>
+  <action id="ResizeToolWindowDown">
+    <keyboard-shortcut first-keystroke="shift control NUMPAD2" />
+  </action>
+  <action id="ResizeToolWindowLeft">
+    <keyboard-shortcut first-keystroke="shift control NUMPAD4" />
+  </action>
+  <action id="ResizeToolWindowRight">
+    <keyboard-shortcut first-keystroke="shift control NUMPAD6" />
+  </action>
+  <action id="ResizeToolWindowUp">
+    <keyboard-shortcut first-keystroke="shift control NUMPAD8" />
+  </action>
   <action id="Runner.CloseView">
     <keyboard-shortcut first-keystroke="control G" />
   </action>
   <action id="ShowBookmarks">
     <keyboard-shortcut first-keystroke="F1" />
   </action>
+  <action id="ShowErrorDescription" />
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="control H" />
   </action>
+  <action id="Stop" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt ENTER" />
   </action>
@@ -61,6 +75,12 @@
   </action>
   <action id="ToggleBookmark">
     <keyboard-shortcut first-keystroke="shift control B" />
+  </action>
+  <action id="ToggleDistractionFreeMode">
+    <keyboard-shortcut first-keystroke="control F1" />
+  </action>
+  <action id="ToggleFullScreen">
+    <keyboard-shortcut first-keystroke="control F2" />
   </action>
   <action id="TypeHierarchy" />
   <action id="com.jetbrains.python.console.RunPythonConsoleAction">
