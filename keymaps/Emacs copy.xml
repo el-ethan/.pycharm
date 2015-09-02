@@ -1,89 +1,89 @@
 <keymap version="1" name="Emacs copy" parent="Emacs">
   <action id="ActivateTerminalToolWindow">
-    <keyboard-shortcut first-keystroke="alt F12" />
-    <keyboard-shortcut first-keystroke="control X" second-keystroke="control T" />
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="ctrl t" />
   </action>
   <action id="CloseContent">
-    <keyboard-shortcut first-keystroke="control X" second-keystroke="K" />
-    <keyboard-shortcut first-keystroke="control X" second-keystroke="0" />
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="k" />
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="0" />
   </action>
   <action id="ContextHelp" />
   <action id="EditorCloneCaretAbove">
-    <keyboard-shortcut first-keystroke="shift control P" />
+    <keyboard-shortcut first-keystroke="shift ctrl p" />
   </action>
   <action id="EditorCloneCaretBelow">
-    <keyboard-shortcut first-keystroke="shift control N" />
+    <keyboard-shortcut first-keystroke="shift ctrl n" />
   </action>
   <action id="EditorIndentLineOrSelection">
-    <keyboard-shortcut first-keystroke="TAB" />
+    <keyboard-shortcut first-keystroke="tab" />
   </action>
   <action id="EditorSelectLine">
-    <keyboard-shortcut first-keystroke="control L" />
+    <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
   <action id="EditorSelectWord">
-    <keyboard-shortcut first-keystroke="control alt W" />
-    <keyboard-shortcut first-keystroke="alt SPACE" />
+    <keyboard-shortcut first-keystroke="ctrl alt w" />
+    <keyboard-shortcut first-keystroke="alt space" />
   </action>
   <action id="GotoTypeDeclaration">
     <mouse-shortcut keystroke="shift control button1" />
   </action>
   <action id="HideActiveWindow">
-    <keyboard-shortcut first-keystroke="shift ESCAPE" />
-    <keyboard-shortcut first-keystroke="control G" />
+    <keyboard-shortcut first-keystroke="shift escape" />
+    <keyboard-shortcut first-keystroke="ctrl g" />
   </action>
   <action id="RecentChangedFiles">
-    <keyboard-shortcut first-keystroke="shift control E" />
-    <keyboard-shortcut first-keystroke="control X" second-keystroke="F" />
+    <keyboard-shortcut first-keystroke="shift ctrl e" />
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="f" />
   </action>
   <action id="ResizeToolWindowDown">
-    <keyboard-shortcut first-keystroke="shift control NUMPAD2" />
+    <keyboard-shortcut first-keystroke="shift ctrl numpad2" />
   </action>
   <action id="ResizeToolWindowLeft">
-    <keyboard-shortcut first-keystroke="shift control NUMPAD4" />
+    <keyboard-shortcut first-keystroke="shift ctrl numpad4" />
   </action>
   <action id="ResizeToolWindowRight">
-    <keyboard-shortcut first-keystroke="shift control NUMPAD6" />
+    <keyboard-shortcut first-keystroke="shift ctrl numpad6" />
   </action>
   <action id="ResizeToolWindowUp">
-    <keyboard-shortcut first-keystroke="shift control NUMPAD8" />
+    <keyboard-shortcut first-keystroke="shift ctrl numpad8" />
   </action>
   <action id="Runner.CloseView">
-    <keyboard-shortcut first-keystroke="control G" />
+    <keyboard-shortcut first-keystroke="ctrl g" />
   </action>
   <action id="ShowBookmarks">
-    <keyboard-shortcut first-keystroke="F1" />
+    <keyboard-shortcut first-keystroke="f1" />
   </action>
   <action id="ShowErrorDescription" />
   <action id="ShowSettings">
-    <keyboard-shortcut first-keystroke="control H" />
+    <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
   <action id="Stop" />
   <action id="SwitchApply">
-    <keyboard-shortcut first-keystroke="shift alt ENTER" />
+    <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
   <action id="SwitchDown">
-    <keyboard-shortcut first-keystroke="shift alt DOWN" />
+    <keyboard-shortcut first-keystroke="shift alt down" />
   </action>
   <action id="SwitchLeft">
-    <keyboard-shortcut first-keystroke="shift alt LEFT" />
+    <keyboard-shortcut first-keystroke="shift alt left" />
   </action>
   <action id="SwitchRight">
-    <keyboard-shortcut first-keystroke="shift alt RIGHT" />
+    <keyboard-shortcut first-keystroke="shift alt right" />
   </action>
   <action id="SwitchUp">
-    <keyboard-shortcut first-keystroke="shift alt UP" />
+    <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
   <action id="ToggleBookmark">
-    <keyboard-shortcut first-keystroke="shift control B" />
+    <keyboard-shortcut first-keystroke="shift ctrl b" />
   </action>
   <action id="ToggleDistractionFreeMode">
-    <keyboard-shortcut first-keystroke="control F1" />
+    <keyboard-shortcut first-keystroke="ctrl f1" />
   </action>
   <action id="ToggleFullScreen">
-    <keyboard-shortcut first-keystroke="control F2" />
+    <keyboard-shortcut first-keystroke="ctrl f2" />
   </action>
   <action id="TypeHierarchy" />
   <action id="com.jetbrains.python.console.RunPythonConsoleAction">
-    <keyboard-shortcut first-keystroke="control X" second-keystroke="control P" />
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="ctrl p" />
   </action>
 </keymap>
