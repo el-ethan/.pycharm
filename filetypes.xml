@@ -5,9 +5,9 @@
       <mapping pattern="testfile" type="PLAIN_TEXT" />
       <mapping pattern="localtextfile" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
+      <mapping ext="pyx" type="Python" />
       <mapping ext="pxi" type="Python" />
       <mapping ext="pxd" type="Python" />
-      <mapping ext="pyx" type="Python" />
     </extensionMap>
   </component>
 </application>
