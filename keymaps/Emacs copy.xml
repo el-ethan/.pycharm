@@ -1,4 +1,8 @@
 <keymap version="1" name="Emacs copy" parent="Emacs">
+  <action id="ActivateFindToolWindow" />
+  <action id="ActivateStructureToolWindow">
+    <keyboard-shortcut first-keystroke="alt 3" />
+  </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="ctrl t" />
