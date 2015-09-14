@@ -2,9 +2,9 @@
   <component name="FileTypeManager" version="14">
     <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.bundle;.git;.hg;.svn;.tox;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
+      <mapping ext="cfg" type="Ini" />
       <mapping pattern="testfile" type="PLAIN_TEXT" />
       <mapping pattern="localtextfile" type="PLAIN_TEXT" />
-      <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping pattern="test_browser.py" type="Python" />
       <mapping ext="pxi" type="Python" />
       <mapping ext="pxd" type="Python" />
