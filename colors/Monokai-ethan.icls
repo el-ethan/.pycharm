@@ -3,15 +3,19 @@
   <option name="EDITOR_FONT_SIZE" value="18" />
   <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
   <colors>
+    <option name="ADDED_LINES_COLOR" value="34ba4c" />
     <option name="CARET_COLOR" value="f8f8f0" />
     <option name="CARET_ROW_COLOR" value="3e3d32" />
     <option name="CONSOLE_BACKGROUND_KEY" value="272822" />
+    <option name="DELETED_LINES_COLOR" value="9f3d46" />
     <option name="GUTTER_BACKGROUND" value="272822" />
     <option name="INDENT_GUIDE" value="3b3a32" />
     <option name="LINE_NUMBERS_COLOR" value="f8f8f2" />
+    <option name="MODIFIED_LINES_COLOR" value="6883c7" />
     <option name="SELECTED_INDENT_GUIDE" value="3b3a32" />
     <option name="SELECTION_BACKGROUND" value="5d5d5d" />
     <option name="WHITESPACES" value="3b3a32" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="7cafc2" />
   </colors>
   <attributes>
     <option name="BAD_CHARACTER">
