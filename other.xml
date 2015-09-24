@@ -49,6 +49,7 @@
   </component>
   <component name="PyCodeInsightSettings">
     <option name="SHOW_IMPORT_POPUP" value="true" />
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_FUNCTION" value="true" />
   </component>
   <component name="PyTestFrameworkService">
     <option name="SDK_TO_PYTEST">
