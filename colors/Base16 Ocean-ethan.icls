@@ -7,6 +7,7 @@
     <option name="CARET_COLOR" value="bbbbbb" />
     <option name="CARET_ROW_COLOR" value="343d46" />
     <option name="CONSOLE_BACKGROUND_KEY" value="2b303b" />
+    <option name="DELETED_LINES_COLOR" value="9f3d46" />
     <option name="FILESTATUS_ADDED" value="629755" />
     <option name="FILESTATUS_DELETED" value="6c6c6c" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="6c6c6c" />
@@ -28,7 +29,7 @@
     <option name="METHOD_SEPARATORS_COLOR" value="343d46" />
     <option name="MODIFIED_LINES_COLOR" value="415f69" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="574300" />
-    <option name="RIGHT_MARGIN_COLOR" value="323232" />
+    <option name="RIGHT_MARGIN_COLOR" value="43606c" />
     <option name="SELECTED_INDENT_GUIDE" value="eff1f5" />
     <option name="SELECTED_TEARLINE_COLOR" value="4f5b66" />
     <option name="SELECTION_BACKGROUND" value="4f5b66" />

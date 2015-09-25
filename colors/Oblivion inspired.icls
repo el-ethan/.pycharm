@@ -312,11 +312,6 @@
         <option name="FOREGROUND" value="da4939" />
       </value>
     </option>
-    <option name="DEFAULT_CLASS_REFERENCE">
-      <value>
-        <option name="FOREGROUND" value="769aa5" />
-      </value>
-    </option>
     <option name="DEFAULT_CONSTANT">
       <value>
         <option name="FOREGROUND" value="9876aa" />
@@ -344,11 +339,6 @@
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
         <option name="FOREGROUND" value="cc7833" />
-      </value>
-    </option>
-    <option name="DEFAULT_FUNCTION_DECLARATION">
-      <value>
-        <option name="FOREGROUND" value="ffc66d" />
       </value>
     </option>
     <option name="DEFAULT_IDENTIFIER">
@@ -884,20 +874,9 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="PY.KEYWORD">
-      <value>
-        <option name="FOREGROUND" value="cc7832" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
     <option name="PY.KEYWORD_ARGUMENT">
       <value>
         <option name="FOREGROUND" value="aa4926" />
-      </value>
-    </option>
-    <option name="PY.STRING.B">
-      <value>
-        <option name="FOREGROUND" value="a5c261" />
       </value>
     </option>
     <option name="REGEXP.INVALID_STRING_ESCAPE">
