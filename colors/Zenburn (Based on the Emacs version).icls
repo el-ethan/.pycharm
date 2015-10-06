@@ -240,6 +240,11 @@
         <option name="FOREGROUND" value="7cb8bb" />
       </value>
     </option>
+    <option name="DEFAULT_CLASS_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="769aa5" />
+      </value>
+    </option>
     <option name="DEFAULT_COMMA">
       <value />
     </option>
