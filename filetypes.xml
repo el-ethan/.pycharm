@@ -5,6 +5,7 @@
       <mapping ext="cfg" type="Ini" />
       <mapping pattern="testfile" type="PLAIN_TEXT" />
       <mapping pattern="localtextfile" type="PLAIN_TEXT" />
+      <mapping pattern="delivery.py" type="PLAIN_TEXT" />
       <mapping pattern="test_browser.py" type="Python" />
       <mapping ext="pxi" type="Python" />
       <mapping ext="pxd" type="Python" />
