@@ -11,6 +11,7 @@
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="k" />
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="0" />
   </action>
+  <action id="Console.History.Browse" />
   <action id="ContextHelp" />
   <action id="EditorCloneCaretAbove">
     <keyboard-shortcut first-keystroke="shift ctrl p" />
@@ -34,6 +35,9 @@
   <action id="HideActiveWindow">
     <keyboard-shortcut first-keystroke="shift escape" />
     <keyboard-shortcut first-keystroke="ctrl g" />
+  </action>
+  <action id="MethodDown">
+    <keyboard-shortcut first-keystroke="alt down" />
   </action>
   <action id="RecentChangedFiles">
     <keyboard-shortcut first-keystroke="shift ctrl e" />
@@ -85,6 +89,9 @@
   </action>
   <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="ctrl f2" />
+  </action>
+  <action id="Tool_External Tools_emacs-work">
+    <keyboard-shortcut first-keystroke="ctrl alt e" />
   </action>
   <action id="TypeHierarchy" />
   <action id="com.jetbrains.python.console.RunPythonConsoleAction">
