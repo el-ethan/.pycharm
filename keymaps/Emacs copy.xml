@@ -1,4 +1,7 @@
 <keymap version="1" name="Emacs copy" parent="Emacs">
+  <action id="AceJumpAction">
+    <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="space" />
+  </action>
   <action id="ActivateFindToolWindow" />
   <action id="ActivateStructureToolWindow">
     <keyboard-shortcut first-keystroke="alt 3" />
