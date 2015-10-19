@@ -103,7 +103,6 @@
                       <option name="continueMatching" value="true" />
                       <option name="grepExpression" value=".*\*\*\*.*" />
                       <option name="id" value="be34d06c-ae53-4e8d-9eea-ae2edec3e343" />
-                      <option name="inputFilter" value="true" />
                       <option name="operationOnMatch" value="CONTINUE_MATCHING" />
                       <option name="style">
                         <GrepStyle>
