@@ -59,9 +59,6 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="BASH.EXTERNAL_COMMAND">
-      <value />
-    </option>
     <option name="BASH.FUNCTION_CALL">
       <value>
         <option name="FOREGROUND" value="5e9cca" />

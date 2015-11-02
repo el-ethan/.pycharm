@@ -64,5 +64,10 @@
         <entry key="/usr/bin/python3.4" value="false" />
       </map>
     </option>
+    <option name="SDK_TO_ATTEST">
+      <map>
+        <entry key="/usr/bin/python2.7" value="false" />
+      </map>
+    </option>
   </component>
 </application>
