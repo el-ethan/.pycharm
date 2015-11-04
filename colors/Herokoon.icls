@@ -293,9 +293,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="DEFAULT_COMMA">
-      <value />
-    </option>
     <option name="DEFAULT_CONSTANT">
       <value>
         <option name="FOREGROUND" value="ff5000" />
@@ -378,9 +375,6 @@
       <value>
         <option name="FOREGROUND" value="978af9" />
       </value>
-    </option>
-    <option name="DEFAULT_SEMICOLON">
-      <value />
     </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
