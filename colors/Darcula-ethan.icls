@@ -48,10 +48,6 @@
     <option name="HTML_ENTITY_REFERENCE" baseAttributes="DEFAULT_ENTITY" />
     <option name="HTML_TAG" baseAttributes="DEFAULT_TAG" />
     <option name="HTML_TAG_NAME" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="JAVA_COMMA" baseAttributes="DEFAULT_COMMA" />
-    <option name="JAVA_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="JAVA_SEMICOLON" baseAttributes="DEFAULT_SEMICOLON" />
-    <option name="JAVA_VALID_STRING_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="PY.BUILTIN_NAME" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
     <option name="PY.CLASS_DEFINITION" baseAttributes="DEFAULT_CLASS_NAME" />
     <option name="PY.DECORATOR" baseAttributes="DEFAULT_IDENTIFIER" />
