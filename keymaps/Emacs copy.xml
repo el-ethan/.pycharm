@@ -39,6 +39,7 @@
     <keyboard-shortcut first-keystroke="shift escape" />
     <keyboard-shortcut first-keystroke="ctrl g" />
   </action>
+  <action id="IpnbCodeCellAction" />
   <action id="MethodDown">
     <keyboard-shortcut first-keystroke="alt down" />
   </action>
@@ -61,6 +62,9 @@
   </action>
   <action id="Runner.CloseView">
     <keyboard-shortcut first-keystroke="ctrl g" />
+  </action>
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="shift ctrl s" />
   </action>
   <action id="ShowBookmarks">
     <keyboard-shortcut first-keystroke="f1" />
