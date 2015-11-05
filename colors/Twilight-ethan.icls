@@ -1208,7 +1208,6 @@
         <option name="FOREGROUND" value="cf6a4c" />
       </value>
     </option>
-    <option name="REST.BOLD" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="REST.EXPLICIT">
       <value>
         <option name="FOREGROUND" value="cda869" />
@@ -1234,7 +1233,6 @@
         <option name="BACKGROUND" value="4d5d3d" />
       </value>
     </option>
-    <option name="REST.ITALIC" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="REST.LINE_COMMENT">
       <value>
         <option name="FOREGROUND" value="5f5a60" />
