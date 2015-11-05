@@ -842,6 +842,7 @@
         <option name="FOREGROUND" value="d7d500" />
       </value>
     </option>
+    <option name="REST.BOLD" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="REST.FIXED">
       <value>
         <option name="BACKGROUND" value="2b303b" />
@@ -857,6 +858,7 @@
         <option name="BACKGROUND" value="2b303b" />
       </value>
     </option>
+    <option name="REST.ITALIC" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
         <option name="ERROR_STRIPE_COLOR" value="41c700" />
