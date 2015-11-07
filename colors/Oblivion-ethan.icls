@@ -103,7 +103,6 @@
         <option name="FOREGROUND" value="536c46" />
       </value>
     </option>
-    <option name="CONSOLE_BLACK_OUTPUT" baseAttributes="CONSOLE_NORMAL_OUTPUT" />
     <option name="CONSOLE_BLUE_BRIGHT_OUTPUT">
       <value>
         <option name="FOREGROUND" value="729fcf" />
@@ -197,7 +196,6 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="CONSOLE_YELLOW_OUTPUT" baseAttributes="CONSOLE_NORMAL_OUTPUT" />
     <option name="CSS.COLOR">
       <value>
         <option name="FOREGROUND" value="fce94f" />
