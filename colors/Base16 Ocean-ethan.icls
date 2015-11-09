@@ -126,7 +126,6 @@
     <option name="CONSOLE_USER_INPUT">
       <value>
         <option name="FOREGROUND" value="65737e" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="CUSTOM_INVALID_STRING_ESCAPE_ATTRIBUTES">
