@@ -32,6 +32,9 @@
     <keyboard-shortcut first-keystroke="ctrl alt w" />
     <keyboard-shortcut first-keystroke="alt space" />
   </action>
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="back_quote" />
+  </action>
   <action id="GotoTypeDeclaration">
     <mouse-shortcut keystroke="shift control button1" />
   </action>
@@ -64,7 +67,7 @@
     <keyboard-shortcut first-keystroke="ctrl g" />
   </action>
   <action id="ShowBookmarks">
-    <keyboard-shortcut first-keystroke="f1" />
+    <keyboard-shortcut first-keystroke="f2" />
   </action>
   <action id="ShowErrorDescription" />
   <action id="ShowSettings">
