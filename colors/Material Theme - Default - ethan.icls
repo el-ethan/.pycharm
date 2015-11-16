@@ -91,15 +91,11 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="BASH.FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
-    <option name="BASH.FUNCTION_DEF_NAME" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
-    <option name="BASH.HERE_DOC" baseAttributes="DEFAULT_STRING" />
     <option name="BASH.INTERNAL_COMMAND">
       <value>
         <option name="FOREGROUND" value="6dc2b8" />
       </value>
     </option>
-    <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
     <option name="BASH.VAR_DEF">
       <value>
         <option name="FOREGROUND" value="c2c8d7" />
@@ -158,7 +154,6 @@
         <option name="FOREGROUND" value="536c46" />
       </value>
     </option>
-    <option name="CONSOLE_BLACK_OUTPUT" baseAttributes="CONSOLE_NORMAL_OUTPUT" />
     <option name="CONSOLE_BLUE_BRIGHT_OUTPUT">
       <value>
         <option name="FOREGROUND" value="7eaef1" />
@@ -179,7 +174,6 @@
         <option name="FOREGROUND" value="33cccc" />
       </value>
     </option>
-    <option name="CONSOLE_DARKGRAY_OUTPUT" baseAttributes="CONSOLE_GRAY_OUTPUT" />
     <option name="CONSOLE_ERROR_OUTPUT">
       <value>
         <option name="FOREGROUND" value="ff6b68" />
@@ -370,8 +364,6 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="CUSTOM_LINE_COMMENT_ATTRIBUTES" baseAttributes="DEFAULT_LINE_COMMENT" />
-    <option name="CUSTOM_MULTI_LINE_COMMENT_ATTRIBUTES" baseAttributes="DEFAULT_BLOCK_COMMENT" />
     <option name="CUSTOM_NUMBER_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="f36e3a" />
@@ -1176,7 +1168,6 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="REST.BOLD" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="REST.FIXED">
       <value>
         <option name="BACKGROUND" value="252b39" />
@@ -1192,7 +1183,6 @@
         <option name="BACKGROUND" value="252b39" />
       </value>
     </option>
-    <option name="REST.ITALIC" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="SASS_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="c2c8d7" />
@@ -1374,7 +1364,6 @@
         <option name="FOREGROUND" value="ffc251" />
       </value>
     </option>
-    <option name="XML_PROLOGUE" baseAttributes="TEXT" />
     <option name="XML_TAG_DATA">
       <value>
         <option name="FOREGROUND" value="c3e887" />
