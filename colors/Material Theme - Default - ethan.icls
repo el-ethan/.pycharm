@@ -379,7 +379,6 @@
         <option name="FOREGROUND" value="4646f1" />
       </value>
     </option>
-    <option name="DEFAULT_ATTRIBUTE" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="546e7a" />
@@ -429,7 +428,6 @@
         <option name="FOREGROUND" value="546e7a" />
       </value>
     </option>
-    <option name="DEFAULT_ENTITY" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
         <option name="FOREGROUND" value="82b1ff" />
@@ -461,7 +459,6 @@
         <option name="FOREGROUND" value="c792ea" />
       </value>
     </option>
-    <option name="DEFAULT_LABEL" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_LINE_COMMENT">
       <value>
         <option name="FOREGROUND" value="546e7a" />
@@ -518,7 +515,6 @@
         <option name="FOREGROUND" value="c3e887" />
       </value>
     </option>
-    <option name="DEFAULT_TAG" baseAttributes="TEXT" />
     <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
       <value>
         <option name="FOREGROUND" value="a7dbd8" />
@@ -1114,15 +1110,6 @@
         <option name="FOREGROUND" value="219598" />
       </value>
     </option>
-    <option name="PY.BUILTIN_NAME" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
-    <option name="PY.CLASS_DEFINITION" baseAttributes="DEFAULT_CLASS_NAME" />
-    <option name="PY.DECORATOR" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="PY.FUNC_DEFINITION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
-    <option name="PY.KEYWORD_ARGUMENT" baseAttributes="DEFAULT_PARAMETER" />
-    <option name="PY.PREDEFINED_DEFINITION" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
-    <option name="PY.PREDEFINED_USAGE" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
-    <option name="PY.SELF_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
-    <option name="PY.STRING.U" baseAttributes="DEFAULT_STRING" />
     <option name="REGEXP.BRACES">
       <value>
         <option name="FOREGROUND" value="2c9ea7" />
