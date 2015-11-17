@@ -1,0 +1,8 @@
+<templateSet group="Tenjin">
+  <template name="&lt;?" value="&lt;?py $CODE$ ?&gt;" shortcut="TAB" toReformat="false" toShortenFQNames="true">
+    <variable name="CODE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,23 @@
+<templateSet group="Python">
+  <template name="tttt" value="import pytest; pytest.set_trace()" description="Set a pytest trace" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="ttt" value="import pdb; pdb.set_trace()" description="Set a ipdb trace" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="cr" value="from gryphus.controller import ControllerRegistry as CR&#10;" description="ControllerRegistry" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="ppp" value="print '*** $DEBUG_CODE$'" description="debug print" toReformat="false" toShortenFQNames="true">
+    <variable name="DEBUG_CODE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+</templateSet>
