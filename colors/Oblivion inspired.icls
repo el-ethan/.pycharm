@@ -547,9 +547,6 @@
         <option name="FOREGROUND" value="729fcf" />
       </value>
     </option>
-    <option name="HTML_TAG_NAME">
-      <value />
-    </option>
     <option name="HYPERLINK_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="287bde" />
@@ -709,9 +706,6 @@
       <value>
         <option name="BACKGROUND" value="141414" />
       </value>
-    </option>
-    <option name="JSP_SCRIPTING_BACKGROUND">
-      <value />
     </option>
     <option name="LABEL">
       <value>
