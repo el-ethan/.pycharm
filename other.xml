@@ -58,7 +58,7 @@
     </option>
     <option name="SDK_TO_NOSETEST">
       <map>
-        <entry key="/usr/bin/python2.7" value="false" />
+        <entry key="/usr/bin/python2.7" value="true" />
         <entry key="/usr/bin/python3.4" value="false" />
       </map>
     </option>
